@@ -1,4 +1,4 @@
-# PeerDrop — Peer-to-Peer File Transfer Web App
+ Transfer Web App
 
 A modern, clean, Send Anywhere-style peer-to-peer file transfer web application built with **React**, **Vite**, **Node.js + Express**, **Socket.IO**, and **WebRTC DataChannel**. Files are transferred directly between sender and receiver without ever storing bytes on an intermediary server.
 
