@@ -1,0 +1,10 @@
+{
+  "name": "Remix TransferX",
+  "description": "Send Anywhere-style direct peer-to-peer file transfer app using WebRTC DataChannels and Socket.IO signaling with 6-digit transfer codes.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
